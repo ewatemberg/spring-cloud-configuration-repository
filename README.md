@@ -8,7 +8,7 @@ Para dar solución a este problema contamos con la ayuda del ecosistema Spring C
 ![alt text](https://raw.githubusercontent.com/ewatemberg/spring-cloud-configuration-repository/master/doc/img/java-microservices-with-netflix-oss-spring.jpg)
 
 ### Related
-* [Configuracion Centralizada mediante Spring Cloud](https://github.com/ewatemberg/spring-cloud-configuration-server-example)
+* [Configuracion Centralizada Repositorio](https://github.com/ewatemberg/spring-cloud-configuration-repository)
 * [Servicio de Registro y Descubrimiento basado en Eureka](https://github.com/ewatemberg/eureka-discovery-server)
 * [Servicio Gateway mediante Zuul](https://github.com/ewatemberg/zuul-gateway-server)
 * [Microservicio Echo](https://github.com/ewatemberg/eureka-client-microservice)
